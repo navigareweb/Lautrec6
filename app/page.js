@@ -13,7 +13,7 @@ export default function Home() {
       ></Image>
       <div className={styles.description}>
         <h3 className={styles.text}>PORTRAITS</h3>
-        <audio controls src="/PORTRAITS.mp3" className={styles.audio}>
+        <audio controls src="/PORTRAITSnew.mp3" className={styles.audio}>
           Your browser does not support the
           <code>audio</code> element.
         </audio>
